@@ -41,6 +41,12 @@ make install
 To start the development server, run:
 
 ```bash
+make start-server
+```
+
+To start Expo run:
+
+```bash
 make start
 ```
 

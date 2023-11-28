@@ -1,11 +1,14 @@
+start-server: 
+	yarn run:mock
+
 start:
-	yarn react-native start
+	yarn start
 
 android:
-	yarn react-native run-android
+	yarn android
 
 ios:
-	yarn react-native run-ios
+	yarn ios
 
 test:
 	yarn jest
@@ -14,10 +17,10 @@ install:
 	yarn install
 
 clean:
-	yarn react-native clean
+	yarn clean
 
 build:
-	yarn react-native build --variant=release
+	yarn build --variant=release
 
 lint:
 	yarn eslint .
