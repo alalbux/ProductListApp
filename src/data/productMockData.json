@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "identificador": 1,
+      "nome": "Produto A",
+      "quantidadeEstoque": 100,
+      "valorUnitario": 25.99,
+      "valorTotal": 2599.0
+    },
+    {
+      "identificador": 2,
+      "nome": "Produto B",
+      "quantidadeEstoque": 150,
+      "valorUnitario": 19.99,
+      "valorTotal": 2998.5
+    },
+    {
+      "identificador": 3,
+      "nome": "Produto C",
+      "quantidadeEstoque": 75,
+      "valorUnitario": 35.5,
+      "valorTotal": 2662.5
+    },
+    {
+      "identificador": 4,
+      "nome": "Produto D",
+      "quantidadeEstoque": 200,
+      "valorUnitario": 10.0,
+      "valorTotal": 2000.0
+    },
+    {
+      "identificador": 5,
+      "nome": "Produto E",
+      "quantidadeEstoque": 50,
+      "valorUnitario": 50.0,
+      "valorTotal": 2500.0
+    }
+  ]
+}
